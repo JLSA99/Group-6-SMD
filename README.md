@@ -27,12 +27,12 @@ Each module has one student in charge. Write your name in the "Owner" column.
 
 | Module | What it covers | Owner |
 |---|---|---|
-| Data acquisition and retailer API | Getting product and price data from each store | |
-| Data processing and normalization | Cleaning the data and putting every store's format into one common format | |
-| Database and data storage | Designing the database and saving products, stores and prices | |
-| Back end and REST API | The server logic and the endpoints the front end calls | |
-| Front end and user interface | The search page, the results page and how they look | |
-| Testing and DevOps and deployment | Automated tests, build setup and putting the app online | |
+| Data acquisition and retailer API | Getting product and price data from each store |Sara F.|
+| Data processing and normalization | Cleaning the data and putting every store's format into one common format |Jose Luis S.|
+| Database and data storage | Designing the database and saving products, stores and prices |Tomas M.|
+| Back end and REST API | The server logic and the endpoints the front end calls |Blas G.|
+| Front end and user interface | The search page, the results page and how they look |Susana P.|
+| Testing and DevOps and deployment | Automated tests, build setup and putting the app online |Emile H.|
 
 ## Shared responsibilities
 
