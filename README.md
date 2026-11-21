@@ -1,6 +1,9 @@
 # Group-6-SMD
 Group 6 of Software Management and Development: 
 
+**Theme:** online price comparison. Shopping Detective searches several online
+stores for a product and shows where it is cheapest.
+
 # Shopping Detective
 
 Shopping Detective is an online price comparison app. You search for a product, and it checks the prices in several online stores (Amazon, El Corte Inglés and others) and shows you where it is cheapest.
